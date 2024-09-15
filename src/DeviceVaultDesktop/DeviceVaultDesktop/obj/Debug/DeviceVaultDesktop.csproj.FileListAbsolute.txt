@@ -1,0 +1,4 @@
+C:\Users\tomas\Git\device-vault\src\DeviceVaultDesktop\DeviceVaultDesktop\obj\Debug\DeviceVaultDesktop.csproj.AssemblyReference.cache
+C:\Users\tomas\Git\device-vault\src\DeviceVaultDesktop\DeviceVaultDesktop\obj\Debug\DeviceVaultDesktop.Properties.Resources.resources
+C:\Users\tomas\Git\device-vault\src\DeviceVaultDesktop\DeviceVaultDesktop\obj\Debug\DeviceVaultDesktop.csproj.GenerateResource.cache
+C:\Users\tomas\Git\device-vault\src\DeviceVaultDesktop\DeviceVaultDesktop\obj\Debug\DeviceVaultDesktop.csproj.CoreCompileInputs.cache
